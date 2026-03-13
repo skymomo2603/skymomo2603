@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Java Developer** with 3 years of experience building enterprise applications. I specialize in backend development with **Java, Tomcat, Hibernate, and MySQL**—architecting reliable systems and optimizing performance. I also build frontends with **PrimeFaces, Bootstrap, and HTML5**. Currently expanding into **Node.js, Express.js, React, Next.js, and PostgreSQL** to strengthen my full-stack skills. I value clarity, collaboration, and shipping solutions that scale.
+I'm a **Senior Java Developer** with 3 years of experience building enterprise applications. I specialize in backend development with **Java, Tomcat, Hibernate, and MySQL**—architecting reliable systems and optimizing performance. I also build frontends with **PrimeFaces, Bootstrap, and HTML5**. Currently expanding into **Node.js, Express.js, React, Next.js, and PostgreSQL** to strengthen my full-stack skills. I'm proficient with AI-assisted development tools like **GitHub Copilot** to write clean, efficient code faster. I value clarity, collaboration, and shipping solutions that scale.
 
 ## 🛠️ Tech Stack
 
@@ -80,12 +80,16 @@ I'm a **Senior Java Developer** with 3 years of experience building enterprise a
   </tr>
 </table>
 
-### Build & Tools
+### DevOps & Development Tools
 <table>
   <tr>
     <td align="center" style="width:150px;padding:20px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /><br/>
-      <sub>Node.js</sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" /><br/>
+      <sub>VS Code</sub>
+    </td>
+    <td align="center" style="width:150px;padding:20px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="48" height="48" alt="Eclipse" /><br/>
+      <sub>Eclipse</sub>
     </td>
     <td align="center" style="width:150px;padding:20px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br/>
@@ -106,14 +110,18 @@ I'm a **Senior Java Developer** with 3 years of experience building enterprise a
       <sub>Figma</sub>
     </td>
     <td align="center" style="width:150px;padding:20px;">
-      <img src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png" width="48" height="48" alt="Figma" /><br/>
+      <img src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png" width="48" height="48" alt="PWA" /><br/>
       <sub>PWA</sub>
+    </td>
+    <td align="center" style="width:150px;padding:20px;">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" height="48" alt="GitHub Copilot" /><br/>
+      <sub>GitHub Copilot</sub>
     </td>
   </tr>
 </table>
 
 ## 🔍 Featured Projects
 
-- **[Booking Management System](https://github.com/skymomo2603/bms)** – Full‑stack booking platform with **Next.js, Express.js, TypeScript, Prisma, PostgreSQL**. Clean API design, reusable React components, and production‑ready architecture.
+- **[Booking Management System](https://github.com/skymomo2603/bms)** – Full‑stack booking platform with **Next.js, Express.js, TypeScript, Prisma, PostgreSQL**. Clean API design, reusable React components, and production‑ready architecture. Built with AI-assisted development tools for efficiency.
 
 ⭐️ From [skymomo2603](https://github.com/skymomo2603)
