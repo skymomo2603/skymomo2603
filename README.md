@@ -48,6 +48,7 @@ I'm a **Senior Java Developer** with 3 years of experience building enterprise a
       <sub>Bootstrap</sub>
     </td>
     <td align="center" style="width:150px;padding:20px;">
+      <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2018/05/primefaces-logo.png?ssl=1" width="120" alt="PrimeFaces" /><br/>
       <sub>PrimeFaces</sub>
     </td>
     <td align="center" style="width:150px;padding:20px;">
@@ -105,6 +106,7 @@ I'm a **Senior Java Developer** with 3 years of experience building enterprise a
       <sub>Figma</sub>
     </td>
     <td align="center" style="width:150px;padding:20px;">
+      <img src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png" width="48" height="48" alt="Figma" /><br/>
       <sub>PWA</sub>
     </td>
   </tr>
