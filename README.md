@@ -44,6 +44,14 @@ I'm a **Senior Java Developer** with 3 years of experience building enterprise a
       <sub>Hibernate</sub>
     </td>
     <td align="center" style="width:150px;padding:20px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /><br/>
+      <sub>Node.js</sub>
+    </td>
+    <td align="center" style="width:150px;padding:20px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js" /><br/>
+      <sub>Express.js</sub>
+    </td>
+    <td align="center" style="width:150px;padding:20px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" /><br/>
       <sub>Bootstrap</sub>
     </td>
@@ -98,24 +106,6 @@ I'm a **Senior Java Developer** with 3 years of experience building enterprise a
     <td align="center" style="width:150px;padding:20px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br/>
       <sub>Docker</sub>
-    </td>
-  </tr>
-</table>
-
-### Design & Mobile
-<table>
-  <tr>
-    <td align="center" style="width:150px;padding:20px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" /><br/>
-      <sub>Figma</sub>
-    </td>
-    <td align="center" style="width:150px;padding:20px;">
-      <img src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png" width="48" height="48" alt="PWA" /><br/>
-      <sub>PWA</sub>
-    </td>
-    <td align="center" style="width:150px;padding:20px;">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" height="48" alt="GitHub Copilot" /><br/>
-      <sub>GitHub Copilot</sub>
     </td>
   </tr>
 </table>
