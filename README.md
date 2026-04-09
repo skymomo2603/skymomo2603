@@ -40,10 +40,6 @@ I'm a **Senior Java Developer** with 3 years of experience building enterprise a
       <sub>Tomcat</sub>
     </td>
     <td align="center" style="width:150px;padding:20px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="48" height="48" alt="Hibernate" /><br/>
-      <sub>Hibernate</sub>
-    </td>
-    <td align="center" style="width:150px;padding:20px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /><br/>
       <sub>Node.js</sub>
     </td>
