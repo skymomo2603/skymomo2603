@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Java Developer** with 3 years of experience building enterprise applications. I specialize in backend development with **Java, Tomcat, Hibernate, and MySQL**—architecting reliable systems and optimizing performance. I also build frontends with **PrimeFaces, Bootstrap, and HTML5**. Currently expanding into **Node.js, Express.js, React, Next.js, and PostgreSQL**. I leverage **GitHub Copilot** to write clean code efficiently. I value clarity, collaboration, and shipping solutions that scale.
+I'm a **Senior Java Developer** with 3 years of experience building enterprise applications. I specialize in backend development with **Java, Tomcat, and MySQL**—architecting reliable systems and optimizing performance. I also build frontends with **PrimeFaces, Bootstrap, and HTML5**. Currently expanding into **Node.js, Express.js, React, Next.js, and PostgreSQL**. I leverage **GitHub Copilot** to write clean code efficiently. I value clarity, collaboration, and shipping solutions that scale.
 
 ## 🛠️ Tech Stack
 
